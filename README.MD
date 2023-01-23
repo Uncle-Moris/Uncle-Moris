@@ -1,10 +1,10 @@
 # Maurycy Woźnica
 
 ## Contact Information
-- Email: yourname@email.com
-- Phone: 555-555-5555
-- GitHub: https://github.com/username
-- LinkedIn: https://linkedin.com/in/username
+- Email: mjw11@wp.pl
+- Phone: 576-117-400
+- GitHub: https://github.com/Uncle-Moris
+- LinkedIn: https://www.linkedin.com/in/maurycy-woźnica/
 
 ## Summary
 - Detail-oriented tester with experience in manual and automated testing.
