@@ -2,7 +2,6 @@
 
 ## Contact Information
 - Email: mjw11@wp.pl
-- Phone: 576-117-400
 - GitHub: https://github.com/Uncle-Moris
 - LinkedIn: https://www.linkedin.com/in/maurycy-woźnica/
 
