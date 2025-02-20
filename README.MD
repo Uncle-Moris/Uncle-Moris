@@ -1,17 +1,22 @@
-Hi! 👋 I'm Maurycy, a DevOps engineer based in Warsaw with a strong background in automation and process optimization. 
-My favorite technologies include Python 🐍, Linux 🐧, and AWS.
+Hi! 👋 I'm Maurycy
 
-I love helping out with building CI/CD processes 🚀 and planning infrastructure, especially for smaller, hobby projects. It's really rewarding to design smooth workflows that make development and deployment easier.
+Project Manager with a strong background in business analysis, automation, and cloud technologies. My experience spans IT, DevOps, and process optimization, allowing me to bridge the gap between technical teams and business objectives.
+My journey 🚀
 
-Currently, I'm focusing on deepening my knowledge of AWS and working towards obtaining AWS certifications. I'm particularly interested in designing scalable and secure cloud infrastructure.
+I started my career in IT, working as business analyst and PM, later transitioning into DevOps and automation. This technical foundation helps me manage projects efficiently, ensuring smooth collaboration between development, operations, and business stakeholders.
+What I do now 🔥
 
-Here are some of the skills I bring to the table:
+    Leading projects at the intersection of technology and business
+    Optimizing development workflows and infrastructure for scalability
+    Aligning technical execution with strategic business goals
 
-- 🔧 Automating infrastructure and configuration with Terraform, Ansible sometimes even Vagrant 
-- 🛠️ Building CI/CD pipelines with tools like Jenkins, GitLab CI, and GitHub Actions
-- 📊 Monitoring and logging with Prometheus, Grafana, and ELK stack
-- ☁️ Managing AWS services such as EC2, RDS, S3, and Lambda
-- 🔒 Implementing security best practices and infrastructure as code
-- 💻 Writing scripts in Python, Go, Bash, and sometimes Groovy
+Skills & Expertise 💡
 
-I'm always happy to help with building CI/CD pipelines or designing a solution for your project in AWS! Let's connect and make something great together! 🌟
+    Project & Process Management: Agile (Scrum/Kanban), stakeholder communication, risk management
+    Business Analysis: Requirements gathering, process mapping, data-driven decision-making
+    Cloud & DevOps: AWS, Terraform, Infrastructure as Code
+    Automation & Scripting: Python, Bash, Ansible
+    CI/CD & Development Tools: Jenkins, GitHub Actions, GitLab CI
+    Monitoring & Security: Prometheus, Grafana, ELK, security best practices
+
+My technical background allows me to work effectively with engineers while keeping a strategic focus on business impact. Let’s connect and build something great together! 💼💡
